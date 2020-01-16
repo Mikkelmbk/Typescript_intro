@@ -18,7 +18,7 @@ function watch(){
 	connect.server({
 		livereload: true,
 		root: "dist",
-		port:3000,
+		port:3010,
 	});
 }
 
